@@ -29,6 +29,9 @@ build-iPhoneSimulator/
 #
 # vendor/Pods/
 
+# JetBrains IDES
+.idea
+
 ## Documentation cache and generated files:
 /.yardoc/
 /_yardoc/
